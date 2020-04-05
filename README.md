@@ -1,2 +1,10 @@
 # Web-Tech-2
 Online Movie Ticket booking system
+This is an online movie ticket booking system using frameworks and intelligent functionality.
+The backend is using flask as framework which in turn uses the RESTful API.
+
+What is updated till now:
+The backend flask app python file is updated.
+
+Frontend uses Angular JS as framework and is being worked on.
+This also involves the working of an inbuilt chatbot,the use of which will be evident once the whole system is updated and ready to use.
